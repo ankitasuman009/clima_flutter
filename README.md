@@ -4,7 +4,7 @@
 # Clima ☁
 ![App Brewery Banner](https://github.com/ankitasuman009/images/blob/master/clima_image.png)
 
-##Advice 
+# Advice 
 Since we are using live web data in this app so make sure your virtual device or physical device, whichever you're using , to have a stable internet connection.
 
 ## Our Goal
